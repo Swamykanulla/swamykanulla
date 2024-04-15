@@ -9,18 +9,16 @@ To use these scripts, ensure you have Python installed on your system. These scr
 
 Clone the repository to your local machine:
 
-bash
-Copy code
 git clone https://github.com/swamykanulla
 Navigate to the repository directory:
 
 Run the scripts using Python
 
 
-Contributing
+Contributing:
 Contributions are welcome! Please feel free to submit bug reports, feature requests, or pull requests.
 
-Support
+Support:
 For help or support with using these scripts, please open an issue on GitHub.
 
 Feel free to customize this template based on the specific features and functionalities of your Python scripts.
